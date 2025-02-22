@@ -85,5 +85,5 @@ In the financial industry, binary classification models like logistic regression
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/logistic-regression-implementation.git
+   git clone https://github.com/aicoaching2025/logistic-regression-implementation.git
    cd logistic-regression-implementation
